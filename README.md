@@ -10,4 +10,4 @@
 
 下記URLをご利用のGISアプリのWMTS設定で指定し、必要なレイヤを追加します。
 
-https://juni-hino.github.io/gsi-wmts/layers1.xml
+https://juni-hino.github.io/gsi-wmts/layers-1.xml
